@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "core-js": "^3.23.3"
+  }
+}
